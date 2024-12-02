@@ -8,9 +8,8 @@ This project allows you to interact with **Azure GPT-4** for generating text and
 - **Gradio Interface**: Easily interact with both AI models through a simple and clean web interface.
 
 ## Showcase:
-Here’s an example of how the interface looks:
-![GPT-4](assets/gpt-4.png)
-![DALLE-3](assets/dalle-3.png)
+<img src="assets/gpt-4.png" alt="Project Showcase" width="600px" />
+<img src="assets/dalle-3.png" alt="Project Showcase" width="600px" />
 
 ## Requirements:
 - Python 3.7+
