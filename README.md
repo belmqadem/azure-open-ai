@@ -49,6 +49,3 @@ This project allows you to interact with **Azure GPT-4** for generating text and
 
 ## Contributing:
 Feel free to fork this repository, submit issues, and create pull requests for improvements.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
